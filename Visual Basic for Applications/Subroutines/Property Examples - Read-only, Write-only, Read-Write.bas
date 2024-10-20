@@ -1,3 +1,5 @@
+' Property examples - Read-only, Write-only, Read-Write
+
 Sub PropertyExamples()
 
     Dim ws As Worksheet
