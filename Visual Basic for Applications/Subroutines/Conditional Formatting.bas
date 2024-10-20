@@ -1,3 +1,5 @@
+' Apply conditional formatting to a cell
+
 Sub ConditionalFormatting()
 Dim rng As Range
 Set rng = ActiveSheet.Range("A1:A10")
