@@ -1,3 +1,5 @@
+' Create a collection, add items, access items, remove items, count items
+
 Sub CollectionExample()
 
 ‘ Create collection
