@@ -1,3 +1,5 @@
+' Display a message box
+
 Sub BasicExample()
     ' Declare variables
     Dim cellValue As Integer
