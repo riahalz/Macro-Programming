@@ -1,3 +1,5 @@
+' Create SalesReport with data
+
 Sub CreateSalesReport()
     ' Declare variables
     Dim wb As Workbook
