@@ -1,4 +1,4 @@
-Sub AreaFormatting()
+Sub Calculate Area()
 
     Dim length As Variant
     Dim width As Variant
