@@ -4,11 +4,11 @@ function calculateCommission() {
   
   // Salespeople names and total sales
   var salesData = [
-    ['Riya Halbhavi', 10170],
+    ['Riya H', 10170],
     ['Sneha R', 11700],
-    ['Vaibhavi Kurinji', 10335],
-    ['Misaki Ayuzawa', 6010],
-    ['Takumi Usui', 11585]
+    ['Vaibhavi K', 10335],
+    ['Misaki', 6010],
+    ['Takumi', 11585]
   ];
 
   // Headings
