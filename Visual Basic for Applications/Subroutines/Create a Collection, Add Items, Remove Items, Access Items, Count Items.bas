@@ -8,7 +8,7 @@ Dim fruits As New Collection
 ' Add items to collection
 fruits.Add "Apple"
 fruits.Add "Banana"
-fruits.Add “Cherry"
+fruits.Add "Cherry"
 
 ' Access collection items
 Debug.Print fruits(2)  ' Output: Banana
